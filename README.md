@@ -6,7 +6,6 @@
 
 <h3 align="center">📌 Actual Projects</h3>
 <p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
 </p>
 
 <div>
@@ -27,7 +26,6 @@
 
 <h3 align="center">📞 Contact</h3>
 <p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
 </p>
 <p align="center">
     <img align="center" src="https://lanyard.cnrad.dev/api/481861699809574934">
